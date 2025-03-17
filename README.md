@@ -1,4 +1,4 @@
-<img src="start.png" alt="" width="100%">
+<img src="start1.png" alt="" width="100%">
 <h3 align="center">I am 4th year Computer science student at Silesian University of Technology.</h3>
 
 <h3 align="left">Connect with me:</h3>
